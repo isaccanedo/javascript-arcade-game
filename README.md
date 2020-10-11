@@ -2,7 +2,7 @@
 Um jogo Arcade construído com Vanilla JavaScript sem nenhuma biblioteca externa. É tudo sobre cruzar os insetos e chegar até a Água para conseguir alguns pontos, e tentar não tocar em um inseto!
 
 ## Como jogar?
-- Open the [Live Preview](https://elharony.github.io/FEND-Arcade-Game/)
+- Para jogar, [Clique aqui](https://isaccanedo.github.io/javascript-arcade-game/)
 _If you want to run the game locally, `Download` the `Project` Files, and open the `index.html` file!_
 - Change your `Character` by clicking on one of the available ones
 - Try to reach the `Water` without touching a `bug`
