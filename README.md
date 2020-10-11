@@ -1,4 +1,4 @@
-# FEND | Arcade Game
+# JOGO de Arcade
 Um jogo Arcade construído com Vanilla JavaScript sem nenhuma biblioteca externa. É tudo sobre cruzar os insetos e chegar até a Água para conseguir alguns pontos, e tentar não tocar em um inseto!
 
 ## Como jogar?
