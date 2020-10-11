@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Arcade Game</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+    <section class="game-starter">
+        <h2>Escolha o seu personagem</h2>
+        <img class="char-image" src="images/char-boy.png" data-image="images/char-boy.png">
+        <img class="char-image" src="images/char-cat-girl.png" data-image="images/char-cat-girl.png">
+        <img class="char-image" src="images/char-horn-girl.png" data-image="images/char-horn-girl.png">
+        <img class="char-image" src="images/char-pink-girl.png" data-image="images/char-pink-girl.png">
+        <img class="char-image" src="images/char-princess-girl.png" data-image="images/char-princess-girl.png">
+    </section>
+    <main class="game-container">
+        <section class="stats">
+            <ul>
+                <li>Vidas: <span id="lives"></span></li>
+                <li>Pontuação: <span id="score"></span></li>
+            </ul> 
+        </section>
+        <canvas id="canvas"></canvas>
+    </main>
+
+    <script src="js/resources.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/engine.js"></script>
+</body>
+</html>

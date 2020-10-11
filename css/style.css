@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+ul {
+    margin-bottom: -30px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.game-starter h2 {
+    margin-bottom: 0;
+}
+.game-starter .char-image.active {
+    background: url(../images/Selector.png);
+}
